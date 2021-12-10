@@ -1,0 +1,119 @@
+.student-add-form {
+    margin-bottom: 30px;
+}
+
+.errorText {
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .avgGradeContainer {
+        display: block;
+        position: relative;
+        right: 0px;
+    }
+
+    table {
+        font-size: 10px;
+    }
+
+    table .btn {
+        font-size: 10px;
+    }
+    #tableContainer {
+        padding: 0;
+    }
+    
+}
+
+@media only screen and (min-width: 600px) {
+   
+} 
+
+@media only screen and (min-width: 768px) {
+    .avgGradeContainer {
+        display: inline-block;
+        position: absolute;
+        right: 0;
+    }
+
+    table .btn {
+        font-size: 10px;
+    }
+
+
+    .student-add-form {
+        right: -150px;
+    }
+} 
+
+@media only screen and (min-width: 992px) {
+
+    .avgGradeContainer {
+        display: inline-block;
+        position: absolute;
+        right: 0;
+
+
+    }
+
+    table .btn {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .avgGradeContainer {
+        display: inline-block;
+        position: absolute;
+        right: 0;
+    }
+
+}
+
+@media only screen and (min-width: 1440px) {
+    .avgGradeContainer {
+        display: inline-block;
+        position: absolute;
+        right: 0;
+    }
+
+    
+}
+
+@media screen and (min-width: 1600px) {
+    .avgGradeContainer {
+        display: inline-block;
+        position: absolute;
+        right: 0;
+    }
+
+    
+}
+
+@media screen and (min-width: 1725px) {
+    .avgGradeContainer {
+        display: inline-block;
+        position: absolute;
+        right: 0;
+    }
+
+    
+}
+
+@media screen and (min-width: 1800px) {
+    .avgGradeContainer {
+        display: inline-block;
+        position: absolute;
+        right: 0;
+    }
+
+}
+@media screen and (min-width: 1900px) {
+    .avgGradeContainer {
+        display: inline-block;
+        position: absolute;
+        right: 0;
+    }
+
+}
